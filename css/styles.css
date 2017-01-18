@@ -1,0 +1,13 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+h2 {
+  color: blue;
+  font-style: oblique;
+}
+
+body {
+  background-color: lightgrey;
+}
